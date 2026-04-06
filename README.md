@@ -36,7 +36,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## 🔥 UTN Hub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aznar-7/TU_REPO/main/assets/utnhub-preview.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Aznar-7/Aznar-7/assets/UtnHub.gif" width="800"/>
 </p>
 
 > Academic platform designed to centralize the university experience.
@@ -52,7 +52,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux,html,c++,arduino" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux,html,css,cpp,arduino" />
 </p>
 
 ---
