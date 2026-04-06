@@ -15,107 +15,75 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Vicente Aznar
+# 👋 Vicente Aznar
 
-🚀 Full Stack Developer | Systems Engineering Student
-
-I design and build **scalable, production-ready web systems** with a strong focus on architecture, performance, and clean code.
-
----
-
-## 🧠 About Me
-
-* 💼 Frontend Developer at a corporate environment (building real-world systems from scratch)
-* 🏗️ Experience developing **end-to-end applications** (frontend, backend, deployment)
-* ⚙️ Strong foundation in **system design and programming paradigms**
-* 🎓 Systems Engineering student
-* 🌍 C1 English level (technical communication)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+scalable+systems;React+%2B+Django+%2B+Cloud" />
+</p>
 
 ---
 
-## 🔥 Featured Work
+## 🚀 About
 
-### 🚀 UTN Hub *(in development)*
+Full Stack Developer focused on **scalable systems, clean architecture, and real-world products**.
 
-A full-scale platform designed to centralize and enhance the university experience.
-
-* ⚛️ Frontend: React + Vite
-* 🐍 Backend: Django
-* ☁️ Infrastructure: Cloud deployment (Oracle Cloud)
-* 🌐 Custom domain
-
-👉 Focused on **scalability, performance, and real-world usability**
+* 💼 Building corporate systems in production
+* 🧠 Strong background in system design & programming paradigms
+* 🎓 Systems Engineering Student
 
 ---
 
-### 🧠 AGV Studio *(startup in progress)*
+## 🔥 Featured
 
-A software development initiative focused on building modern digital solutions.
+### 🚀 UTN Hub *(in progress)*
 
-👉 Currently under development
+Full platform with real infrastructure.
 
----
-
-## 💼 Experience
-
-### Frontend Developer
-
-* Built and deployed multiple **corporate systems from scratch**
-* Focus on performance optimization and scalable UI architectures
-* Worked in cross-functional teams translating business needs into technical solutions
-
-### Software & Product Development Intern
-
-* Experience with **Agile methodologies (Scrum/Kanban)**
-* Product discovery, UX/UI design, and prototyping
-* Full exposure to the **Software Development Lifecycle (SDLC)**
-
----
-
-## 🧰 Tech Stack
-
-### Frontend
-
-* React, Vite
-* Tailwind CSS
-* TypeScript / JavaScript (ES6+)
-
-### Backend
-
+* React + Vite
 * Django
-* REST APIs
+* Oracle Cloud
 
-### Systems & Tools
-
-* Git, Docker
-* SQL
-* Bash scripting
-
-### Programming Paradigms
-
-* Functional Programming (Haskell)
-* Logic Programming (Prolog)
+<p align="center">
+  <img src="https://via.placeholder.com/700x350?text=UTN+Hub+Preview" />
+</p>
 
 ---
 
-## 🎯 What I Focus On
+## 🧰 Stack
 
-* Building **scalable systems**, not just interfaces
-* Writing **clean, maintainable code**
-* Designing **efficient architectures**
-* Delivering **real-world solutions**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux" />
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Focus
+
+* Scalable architectures
+* Performance optimization
+* Clean and maintainable code
 
 ---
 
 ## 📫 Contact
 
-* 📧 Email: [aznarvicente8@gmail.com](mailto:aznarvicente8@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/vicente-aznar-2b8b9233a
+* ✉️ [aznarvicente8@gmail.com](mailto:aznarvicente8@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/vicente-aznar-2b8b9233a
 * 🌐 Portfolio: www.vicenteaznar.dev
 
 ---
 
-## ⚡ Philosophy
+## ⚡
 
-> "Good software is not just code — it's structure, clarity, and purpose."
+> Building systems, not just interfaces.
+
 
