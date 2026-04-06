@@ -53,7 +53,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux,html,css,cpp,arduino,bash" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux,html,css,cpp,arduino,bash,sql" />
 </p>
 
 **Other Tech & Hardware:** ESP32, Prolog, Smalltalk
@@ -63,7 +63,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aznar-7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aznar-7&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aznar-7&theme=tokyonight&hide_border=true" />
 </p>
 
