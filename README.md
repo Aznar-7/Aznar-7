@@ -18,41 +18,41 @@ Here are some ideas to get you started:
 # 👋 Vicente Aznar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+scalable+systems;React+%2B+Django+%2B+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Building+scalable+systems;React+%2B+Django+%2B+Cloud" />
 </p>
 
 ---
 
 ## 🚀 About
 
-Full Stack Developer focused on **scalable systems, clean architecture, and real-world products**.
+Full Stack Developer focused on **scalable systems, architecture, and real-world products**.
 
-* 💼 Building corporate systems in production
-* 🧠 Strong background in system design & programming paradigms
+* 💼 Building production systems
+* 🧠 Strong system design mindset
 * 🎓 Systems Engineering Student
 
 ---
 
-## 🔥 Featured
+## 🔥 UTN Hub
 
-### 🚀 UTN Hub *(in progress)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aznar-7/TU_REPO/main/assets/utnhub-preview.png" width="800"/>
+</p>
 
-Full platform with real infrastructure.
+> Academic platform designed to centralize the university experience.
+
+**Stack**
 
 * React + Vite
 * Django
 * Oracle Cloud
 
-<p align="center">
-  <img src="https://via.placeholder.com/700x350?text=UTN+Hub+Preview" />
-</p>
-
 ---
 
 ## 🧰 Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux,html,c++,arduino" />
 </p>
 
 ---
@@ -60,29 +60,27 @@ Full platform with real infrastructure.
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aznar-7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aznar-7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 Focus
+## ⚡ Focus
 
 * Scalable architectures
-* Performance optimization
-* Clean and maintainable code
+* Performance
+* Clean code
 
 ---
 
 ## 📫 Contact
 
 * ✉️ [aznarvicente8@gmail.com](mailto:aznarvicente8@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/vicente-aznar-2b8b9233a
+* 💼 linkedin.com/in/vicente-aznar-2b8b9233a
 * 🌐 Portfolio: www.vicenteaznar.dev
 
 ---
-
-## ⚡
 
 > Building systems, not just interfaces.
 
