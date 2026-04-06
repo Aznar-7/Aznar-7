@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 ## 🚀 About
 
-Full Stack Developer focused on **scalable systems, architecture, and real-world products**.
+Full Stack Developer focused on **scalable systems, architecture, and real-world products**. I prioritize strong system design, understanding the big picture while leveraging modern tools to optimize development.
 
-* 💼 Building production systems
-* 🧠 Strong system design mindset
-* 🎓 Systems Engineering Student
+* 💼 Front-End Developer @ **Porta Hnos**
+* 🌱 Building **AGV** (Upcoming Software + IoT Startup)
+* 🧠 Strong system design & architecture mindset
+* 🎓 3rd Year Systems Engineering Student @ **UTN**
 
 ---
 
@@ -52,8 +53,10 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux,html,css,cpp,arduino" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,docker,git,linux,html,css,cpp,arduino,bash" />
 </p>
+
+**Other Tech & Hardware:** ESP32, Prolog, Smalltalk
 
 ---
 
@@ -69,19 +72,18 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## ⚡ Focus
 
 * Scalable architectures
-* Performance
-* Clean code
+* Hardware & IoT Integration
+* Performance & Clean code
 
 ---
 
 ## 📫 Contact
 
 * ✉️ [aznarvicente8@gmail.com](mailto:aznarvicente8@gmail.com)
-* 💼 linkedin.com/in/vicente-aznar-2b8b9233a
-* 🌐 Portfolio: www.vicenteaznar.dev
+* 💼 [LinkedIn](https://linkedin.com/in/vicente-aznar-2b8b9233a)
+* 🌐 [Portfolio](https://www.vicenteaznar.dev)
 
 ---
 
 > Building systems, not just interfaces.
-
 
