@@ -29,6 +29,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 
 * 💼 Front-End Developer @ **Porta Hnos**
 * 🌱 Building **AGV** (Upcoming Software + IoT Startup)
+* 👾 Aveilable for **freelance** projects
 * 🧠 Strong system design & architecture mindset
 * 🎓 3rd Year Systems Engineering Student @ **UTN**
 
@@ -82,6 +83,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 * ✉️ [aznarvicente8@gmail.com](mailto:aznarvicente8@gmail.com)
 * 💼 [LinkedIn](https://linkedin.com/in/vicente-aznar-2b8b9233a)
 * 🌐 [Portfolio](https://www.vicenteaznar.dev)
+* 💻 [Fiverr](https://www.fiverr.com/sellers/vicenteaznar)
 
 ---
 
