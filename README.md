@@ -45,9 +45,9 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 
 **Stack**
 
-* React + Vite
-* Django
-* Oracle Cloud
+* React + Vite, Tailwind CSS, Shadcn and motion
+* Django Rest Framework
+* Oracle Cloud | ubuntu
 
 ---
 
