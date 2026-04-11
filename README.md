@@ -38,7 +38,9 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## 🔥 UTN Hub
 
 <p align="center">
-  <img src="UtnHub.gif" width="800"/>
+  <a href="https://www.utnhub.com.ar">
+   <img src="UtnHub.gif" width="800"/>
+  </a>
 </p>
 
 > Academic platform designed to centralize the university experience.
