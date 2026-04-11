@@ -85,7 +85,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 * ✉️ [aznarvicente8@gmail.com](mailto:aznarvicente8@gmail.com)
 * 💼 [LinkedIn](https://linkedin.com/in/vicente-aznar-2b8b9233a)
 * 🌐 [Portfolio](https://www.vicenteaznar.dev)
-* 💻 [Fiverr]([https://www.fiverr.com/sellers/vicenteaznar](https://www.fiverr.com/s/gDb2DNv))
+* 💻 [Fiverr](https://www.fiverr.com/s/gDb2DNv)
 
 ---
 
