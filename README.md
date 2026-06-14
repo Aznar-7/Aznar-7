@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Full Stack Developer focused on **scalable systems, architecture, and real-world products**. I prioritize strong system design, understanding the big picture while leveraging modern tools to optimize development.
 
-* 💼 Front-End Developer @ **Porta Hnos**
+* 💼 Full Stack Developer @ **Porta Hnos**
 * 🌱 Building **AGV** (Upcoming Software + IoT Startup)
 * 👾 Aveilable for **freelance** projects
 * 🧠 Strong system design & architecture mindset
