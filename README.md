@@ -31,7 +31,8 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 * 🌱 Building **AGV** (Upcoming Software + IoT Startup)
 * 👾 Aveilable for **freelance** projects
 * 🧠 Strong system design & architecture mindset
-* 🎓 3rd Year Systems Engineering Student @ **UTN**
+* 🎓 Systems Engineering Student @ **UTN**
+* 🎓 Bachelor of Science in Artificial Intelligence Student @ **UTN**
 
 ---
 
