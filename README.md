@@ -57,7 +57,7 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,express,nodejs,docker,git,linux,html,css,cpp,arduino,bash,mysql,postgres,haskell,graphql,github,raspberrypi,supabase,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,python,express,nodejs,java,spring,docker,git,linux,html,css,cpp,arduino,bash,mysql,postgres,haskell,github,raspberrypi" />
 </p>
 
 **Other Tech & Hardware:** ESP32, Prolog, Smalltalk
