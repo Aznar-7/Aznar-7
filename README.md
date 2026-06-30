@@ -1,42 +1,28 @@
-
-<!--
-**Aznar-7/Aznar-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# 👋 Vicente Aznar
+# 👋 Hi, I'm Vicente Aznar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Building+scalable+systems;React+%2B+Django+%2B+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+real-world+software+products;Scalable+systems+%26+clean+architecture;Software+%2B+Cloud+%2B+IoT" />
 </p>
 
 ---
 
-## 🚀 About
+## 🚀 About Me
 
-Full Stack Developer focused on **scalable systems, architecture, and real-world products**. I prioritize strong system design, understanding the big picture while leveraging modern tools to optimize development.
+I'm a **Full Stack Developer** focused on building scalable, maintainable, and real-world software products.
 
-* 💼 Full Stack Developer @ **Porta Hnos**
-* 🌱 Building **AGV** (Upcoming Software + IoT Startup)
-* 👾 Aveilable for **freelance** projects
-* 🧠 Strong system design & architecture mindset
-* 🎓 Systems Engineering Student @ **UTN**
-* 🎓 Bachelor of Science in Artificial Intelligence Student @ **UTN**
+I enjoy working across the full development cycle: understanding the problem, designing the architecture, building the product, integrating services, deploying solutions, and improving systems over time.
+
+* 💼 Full Stack Developer at **Porta Hnos**
+* 🚀 Building **AGV**, an upcoming Software + IoT startup
+* 👾 Available for **freelance projects**
+* 🧠 Interested in scalable systems, architecture, automation, and AI
+* 🎓 Systems Engineering Student at **UTN**
+* 🎓 Bachelor of Science in Artificial Intelligence Student at **UTN**
+* 🌎 Based in Córdoba, Argentina
 
 ---
 
-## 🔥 UTN Hub
+## 🔥 Featured Project — UTN Hub
 
 <p align="center">
   <a href="https://www.utnhub.com.ar" target="_blank">
@@ -54,30 +40,60 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 
 ---
 
-## 🧰 Stack
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,js,django,flask,python,express,nodejs,java,spring,docker,git,linux,html,css,cpp,arduino,bash,mysql,postgres,haskell,github,raspberrypi" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=astro,react,vite,tailwind,ts,js,html,css" />
 </p>
 
-**Other Tech & Hardware:** ESP32, Prolog, Smalltalk
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express,java,spring,haskell" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+### DevOps, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vercel" />
+</p>
+
+### Systems, Hardware & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi" />
+</p>
+
+**Other technologies:** ESP32, Prolog, Smalltalk
 
 ---
 
-## 📊 Stats
+## 🧠 Areas of Interest
+
+* Scalable software architecture
+* Full stack product development
+* Cloud deployment and infrastructure
+* Hardware and IoT integration
+* AI-powered systems
+* Automation and internal tools
+* Clean code and maintainable systems
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://vicente-aznar-stats.vercel.app/api?username=Aznar-7&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aznar-7&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## ⚡ Focus
-
-* Scalable architectures
-* Hardware & IoT Integration
-* Performance & Clean code
 
 ---
 
@@ -90,5 +106,6 @@ Full Stack Developer focused on **scalable systems, architecture, and real-world
 
 ---
 
-> Building systems, not just interfaces.
-
+<p align="center">
+  <strong>Building systems, not just interfaces.</strong>
+</p>
