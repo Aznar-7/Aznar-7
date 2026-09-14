@@ -18,6 +18,7 @@ I enjoy working across the full development cycle: understanding the problem, de
 * 🧠 Interested in scalable systems, architecture, automation, and AI
 * 🎓 Systems Engineering Student at **UTN**
 * 🎓 Bachelor of Science in Artificial Intelligence Student at **UTN**
+* ⏭️ Bachelor of CyberSecurity (if i pray i,m gonna finish it on 2028) at **UTN**
 * 🌎 Based in Córdoba, Argentina
 
 ---
