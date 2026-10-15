@@ -19,10 +19,10 @@ I'm a **Full Stack Developer** and Systems Engineering student at **UTN, Argenti
 Currently working at **Porta Hnos**, developing software solutions and exploring ways to make engineering workflows more efficient. Outside work, I'm building independent products and exploring the intersection of software, cloud infrastructure, AI, and IoT.
 
 - 💼 **Currently:** Full Stack Developer at Porta Hnos
-- 🚀 **Building:** UTN Hub and products through AGV
-- 🧠 **Exploring:** AI-powered systems, automation, and software architecture
+- 🚀 **Deployed:** UTN Hub and products through Gavia
+- 🧠 **Exploring:** AI-powered systems, automation, software architecture & development and IOT
 - 🛠️ **Interested in:** End-to-end product development, backend engineering, and cloud infrastructure
-- 🎓 **Studying:** Systems Engineering at UTN
+- 🎓 **Studying:** Systems Engineering  & Bachelor of science in A.I at UTN
 - 🌎 **Based in:** Córdoba, Argentina
 - 🤝 **Open to:** Freelance projects and interesting collaborations
 
