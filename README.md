@@ -150,9 +150,7 @@ Built around real university needs, it aims to make academic life more accessibl
   <sub>Every contribution is another step forward.</sub>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aznar-7&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
-</p>
+
 
 ---
 
